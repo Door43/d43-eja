@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eja:home|Door43 (eja)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eja|d43-eja repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eja/archive/master.zip|d43-eja.zip]]
+
+**Recent Changes**
+{{changes>ns = eja}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eja|Ethnologue data]]
+
